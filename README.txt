@@ -1,0 +1,1 @@
+Run DealOneHand to score one hand, or DealTwoHands to score two hands and determine the winner.
